@@ -4,4 +4,4 @@
 
 /.vs/Algorithms
 /Algorithms/bin*
-/Algorithms/obj*
+#/Algorithms/obj*
